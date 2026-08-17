@@ -1,26 +1,72 @@
-## Hi there 👋
+<div align="center">
+👋 ANGELO HERRERA
+QA ENGINEER · SOFTWARE ENGINEER · TEST AUTOMATION
 
-Hey, I'm Angelo Herrera 👋
-Software Engineer → QA Engineer 🔍
+5 years of building software.
+Now focused on building better quality through automation.
 
-5 years of Software Engineering experience, now focused on building better software through quality, testing, and automation.
+<br>
 
-I like to build things, break things, find bugs, and make things better. 🚀
 
-🧪 QA & Automation
 
-Playwright · JavaScript · TypeScript · CI/CD · GitHub Actions · Docker
 
-💻 Development
 
-JavaScript · TypeScript · Java · Python · React
 
-🌱 Currently
-Automating tests with Playwright
-Exploring E2E testing & CI/CD
-Building projects and continuously learning
-🎯 What I'm Looking For
 
-QA Engineer · Test Automation · Quality Engineering
 
-Build with purpose. Test with confidence. Improve continuously.
+
+
+</div>
+🧑‍💻 About Me
+Software Engineer
+      ↓
+5 years building software
+      ↓
+QA Engineering + Test Automation
+      ↓
+Build • Test • Automate • Improve
+
+
+I enjoy understanding how software works, finding where it breaks,
+and building better ways to test and deliver it.
+
+Currently leveling up in Playwright, TypeScript, E2E testing, and CI/CD.
+
+⚡ Tech Stack
+QA & Automation	Development	Tools
+🎭 Playwright	⚛️ React	🐳 Docker
+🧪 E2E Testing	☕ Java	⚙️ GitHub Actions
+🔄 Test Automation	🐍 Python	🔧 Git
+🔍 Manual Testing	🟨 JavaScript	🔄 CI/CD
+	🔷 TypeScript	
+🚀 Currently Building
+
+playwright-automation
+
+Building real-world E2E automation projects with Playwright + TypeScript.
+
+qa-playground
+
+Exploring testing strategies, automation patterns, and CI/CD workflows.
+
+🎯 Career Direction
+QA Engineer
+     +
+Software Engineering Experience
+     +
+Test Automation
+     ↓
+Quality Engineering
+
+
+I'm looking for opportunities where I can combine my software engineering background
+with QA, automation, and continuous improvement.
+
+<div align="center">
+💡 Build it. Break it. Automate it. Make it better.
+<br>
+
+
+
+
+</div>
