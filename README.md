@@ -1,46 +1,33 @@
 <div align="center">
-👋 Hi, I'm a Software Engineer → QA Engineer
-🧪 QA Engineer | 5 Years Software Engineering Experience
 
-Building software • Testing software • Automating quality
-
-Playwright TypeScript JavaScript CI/CD Docker
+### Software Engineer → QA Engineer
+**5 Years in Software Engineering** · Now focused on **Playwright + TypeScript + Test Automation**
 
 </div>
-👨‍💻 About Me
 
-Software Engineer with 5 years of experience, now focusing on QA Engineering & Test Automation.
+---
 
-I have experience with manual testing and am actively building my automation skills with Playwright, JavaScript, and TypeScript.
+### 👋 About Me
 
-My software engineering background helps me understand both how software is built and how to test it effectively.
+I'm a Software Engineer with 5 years of experience, now moving into QA Engineering / Test Automation.
 
-🎯 Currently focused on: QA Automation • Playwright • CI/CD
+- 3 years of manual testing experience across previous projects
+- Currently upskilling in automation with Playwright + JavaScript/TypeScript
+- My dev background helps me understand *why* bugs happen, not just where
 
-🛠️ Tech Stack
+**Target roles:** QA Engineer · QA Automation Engineer · Test Automation Engineer
 
-QA & Automation
-🧪 Playwright • Manual Testing • E2E Testing
+---
 
-Languages
-💻 JavaScript • TypeScript • Java • Python
+### 🛠️ Tech Stack
 
-Development & DevOps
-⚛️ React • Docker • GitHub Actions • CI/CD
+**QA:** `Playwright` `Manual Testing` `Test Automation`
+**Languages:** `JavaScript` `TypeScript` `Java` `Python`
+**Dev:** `React`
+**Tools:** `CI/CD` `GitHub Actions` `Docker`
 
-🚀 Currently Learning
-Playwright & Test Automation
-Automated testing in CI/CD
-Test design & maintainable automation
-Docker for testing workflows
-🎯 Looking For
-
-QA Engineer • QA Automation Engineer • Test Automation Engineer
-
-Combining 5 years of software engineering experience with modern QA automation skills.
+---
 
 <div align="center">
-
-Build. Test. Automate. Improve.
-
+📫 Open to QA / Test Automation opportunities
 </div>
