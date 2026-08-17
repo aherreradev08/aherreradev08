@@ -1,33 +1,46 @@
 <div align="center">
-👋 Hi, I'm [Your Name]
-QA Engineer | Software Engineer
-5 years of software engineering experience
-3 years of hands-on manual testing
-Now focused on test automation & quality engineering
+👋 Hi, I'm a Software Engineer → QA Engineer
+🧪 QA Engineer | 5 Years Software Engineering Experience
 
-<br>
+Building software • Testing software • Automating quality
 
+Playwright TypeScript JavaScript CI/CD Docker
 
+</div>
+👨‍💻 About Me
 
+Software Engineer with 5 years of experience, now focusing on QA Engineering & Test Automation.
 
+I have experience with manual testing and am actively building my automation skills with Playwright, JavaScript, and TypeScript.
 
-<br> </div>
-🧪 QA & Automation
-Playwright
-TypeScript / JavaScript
-Manual Testing
-CI/CD
-GitHub Actions
-Docker
-💻 Software Engineering
-React
-Java
-Python
-🎯 Current Focus
+My software engineering background helps me understand both how software is built and how to test it effectively.
+
+🎯 Currently focused on: QA Automation • Playwright • CI/CD
+
+🛠️ Tech Stack
+
+QA & Automation
+🧪 Playwright • Manual Testing • E2E Testing
+
+Languages
+💻 JavaScript • TypeScript • Java • Python
+
+Development & DevOps
+⚛️ React • Docker • GitHub Actions • CI/CD
+
+🚀 Currently Learning
+Playwright & Test Automation
+Automated testing in CI/CD
+Test design & maintainable automation
+Docker for testing workflows
+🎯 Looking For
+
+QA Engineer • QA Automation Engineer • Test Automation Engineer
+
+Combining 5 years of software engineering experience with modern QA automation skills.
+
 <div align="center">
-Manual Testing → Test Automation → Quality Engineering
 
-<br>
-Building. Testing. Automating. Improving. 🚀
+Build. Test. Automate. Improve.
 
 </div>
