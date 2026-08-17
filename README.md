@@ -16,5 +16,6 @@ Java · Python · React · JavaScript · TypeScript
 Test automation with Playwright
 E2E testing and automation practices
 CI/CD test integration
+
 🎯 Career Focus
 QA Engineering • Test Automation • Software Quality
