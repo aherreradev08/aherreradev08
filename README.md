@@ -21,9 +21,9 @@ I'm a Software Engineer with 5 years of experience, now moving into QA Engineeri
 
 ### 🛠️ Tech Stack
 
-**QA:** `Playwright` `Manual Testing` `Test Automation`
-**Languages:** `JavaScript` `TypeScript` `Java` `Python`
-**Dev:** `React`
+**QA:** `Playwright` `Manual Testing` `Test Automation` <br>
+**Languages:** `JavaScript` `TypeScript` `Java` `Python` <br>
+**Dev:** `React` <br>
 **Tools:** `CI/CD` `GitHub Actions` `Docker`
 
 ---
