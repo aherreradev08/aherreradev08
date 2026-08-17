@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**aherreradev08/aherreradev08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Angelo Herrera 👋
+QA Engineer | Software Engineer | Test Automation
+Software Engineer with 5 years of experience in software development, now focusing on QA Engineering and Test Automation.
 
-Here are some ideas to get you started:
+I build, test, and improve software with a strong interest in automation, quality, and reliable systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧪 QA & Automation
+Playwright · JavaScript · TypeScript · CI/CD · GitHub Actions · Docker
+
+💻 Software Engineering
+Java · Python · React · JavaScript · TypeScript
+
+🚀 Currently Learning
+Test automation with Playwright
+E2E testing and automation practices
+CI/CD test integration
+🎯 Career Focus
+QA Engineering • Test Automation • Software Quality
